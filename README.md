@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since last year.<br>📚 I'm currently learning JS<br>🎯 Goals: Mangpopene<br>🎲 Fun fact:The cost to produce ₹1 coin is approximately ₹1.50 to ₹2. </p>
+<p align="left">✨ Sophomore at Indian Institue of Information Technology, Allahabad.<br>📚 I'm currently learning JS<br>🎯 Goals: Mangpopene<br>🎲 Fun fact:The cost to produce ₹1 coin is approximately ₹1.50 to ₹2. </p>
 
 ###
 
