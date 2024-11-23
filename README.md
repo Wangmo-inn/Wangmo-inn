@@ -14,6 +14,13 @@
 
 ###
 
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wangmo-inn&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
@@ -27,8 +34,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  
-  
 </div>
-
-###
