@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨From Leh <br>📚 Sophomore at Indian Institue of Information Technology, Allahabad.<br>🎯 Goals: Mangpopene<br>🎲 Fun fact: Light attracts bugs! 🐞</p>
+<p align="left">✨From Leh <br>📚 Sophomore at Indian Institue of Information Technology, Allahabad.<br><!--🎯 Goals: Mangpopene<br>🎲 Fun fact: Light attracts bugs! 🐞</p>-->
 
 ###
 
