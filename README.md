@@ -27,56 +27,6 @@ Final-Year B.Tech @ IIIT Allahabad • Software Engineer • Backend • Systems
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔗 Secure URL Shortener
-**Node.js · Express.js · MongoDB · JWT · EJS**
-
-> A backend-focused URL shortening service with authentication, efficient URL resolution and analytics.
-
-- JWT-based authentication
-- REST APIs
-- Indexed MongoDB collections
-- URL redirection
-- Visit history & click analytics
-
-🔗 [Repository](https://github.com/Wangmo-inn/secure-url-shortener)
-
----
-
-### 📝 ExamSquad — Online Examination Platform
-**React.js · Node.js · Express.js · MongoDB**
-
-> Full-stack examination platform for students and administrators.
-
-- Role-based authentication
-- Exam creation & management
-- Unique test-code based exam access
-- Server-side automated evaluation
-- Result management
-
----
-
-### ⚡ Smart EV Charging with Reinforcement Learning
-**Python · PyTorch · Gymnasium · Reinforcement Learning**
-
-> Research reproduction of constrained reinforcement learning for EV charging scheduling in residential microgrids.
-
-- Constrained Soft Actor-Critic (CSAC)
-- LSAC, LDDPG & CPO baselines
-- Custom Gym-compatible environment
-- Constraint / cost critics
-- Lagrangian optimization
-- Comparative evaluation
-
----
-
-### 📌 SnapBoard
-**MongoDB · Express.js · React.js · Node.js**
-
-> A Pinterest-inspired full-stack application for discovering, organizing and sharing visual content.
-
----
 
 ## 🛠️ Tech Stack
 
