@@ -1,65 +1,127 @@
-<h1 align="center">Hi there, I'm Rigzin Wangmo 👋</h1>
-<h3 align="center">Final-Year Engineering Student | Software & Systems Explorer | Innovator</h3>
+<h1 align="center">Hi 👋, I'm Rigzin Wangmo</h1>
+
+<h3 align="center">
+Final-Year B.Tech @ IIIT Allahabad • Software Engineer • Backend • Systems • GenAI
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wangmo-inn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/Wangmo-inn">
+    <img src="https://img.shields.io/github/followers/Wangmo-inn?label=Followers&style=flat" />
+  </a>
+  <a href="https://github.com/Wangmo-inn">
+    <img src="https://img.shields.io/github/stars/Wangmo-inn?label=Stars&style=flat" />
+  </a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🏔️ I am from **Leh** and currently in my **final year** at the **Indian Institute of Information Technology (IIIT), Allahabad**.
-- 🛠 I'm passionate about building scalable software, embedded systems, and exploring machine learning.
-- 🎓 Currently exploring opportunities for **Software Engineering & Research Internships**.
-- 💡 **Interests:** Hardware-software co-design, competitive programming, and sustainable tech (like my E-Waste social entrepreneurship initiative!).
-- 📫 **How to reach me:** _[Insert your Email or LinkedIn link here]_
+- 🎓 Final-year **B.Tech ECE student at IIIT Allahabad**
+- 💻 Interested in **Software Engineering & Backend Development**
+- 🏗️ Learning **System Design, Distributed Systems & Scalable Architecture**
+- 🤖 Exploring **GenAI, LLM applications & AI Agents**
+- 🔬 Research experience in **Reinforcement Learning for Smart EV Charging**
+- 🧩 Currently strengthening **DSA & problem-solving**
+- 📍 From **Leh, Ladakh**
 
 ---
 
-## 🚀 Key Projects & Research
+## 🚀 Featured Projects
 
-Here is a snapshot of what I've been building:
+### 🔗 Secure URL Shortener
+**Node.js · Express.js · MongoDB · JWT · EJS**
 
-*   ⚙️ **Pipelined RISC-V Processor Core**: Designed and implemented a functional processor core utilizing **SystemVerilog**.
-*   ☀️ **Solar-Cell EV Charging System**: Developed an eco-friendly electric vehicle charging infrastructure concept.
-*   🤖 **Autonomous Line-Follower**: Built and programmed an autonomous vehicle using **Arduino** and **C++**.
-*   ♻️ **E-Waste Social Entrepreneurship**: Designed a business model centered on collecting, repairing, and distributing corporate e-waste to educational organizations.
+> A backend-focused URL shortening service with authentication, efficient URL resolution and analytics.
+
+- JWT-based authentication
+- REST APIs
+- Indexed MongoDB collections
+- URL redirection
+- Visit history & click analytics
+
+🔗 [Repository](https://github.com/Wangmo-inn/secure-url-shortener)
 
 ---
 
-## 💻 Tech Stack & Tools
+### 📝 ExamSquad — Online Examination Platform
+**React.js · Node.js · Express.js · MongoDB**
 
-**Languages & Web Development:**
-<p align="left">
-  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="html5" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="css3" /></a>
+> Full-stack examination platform for students and administrators.
+
+- Role-based authentication
+- Exam creation & management
+- Unique test-code based exam access
+- Server-side automated evaluation
+- Result management
+
+---
+
+### ⚡ Smart EV Charging with Reinforcement Learning
+**Python · PyTorch · Gymnasium · Reinforcement Learning**
+
+> Research reproduction of constrained reinforcement learning for EV charging scheduling in residential microgrids.
+
+- Constrained Soft Actor-Critic (CSAC)
+- LSAC, LDDPG & CPO baselines
+- Custom Gym-compatible environment
+- Constraint / cost critics
+- Lagrangian optimization
+- Comparative evaluation
+
+---
+
+### 📌 SnapBoard
+**MongoDB · Express.js · React.js · Node.js**
+
+> A Pinterest-inspired full-stack application for discovering, organizing and sharing visual content.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
 </p>
 
-**Systems, ML & Research:**
-<p align="left">
-  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" /></a>
-  <a href="https://www.mathworks.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab" /></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino" /></a>
-  <a href="https://www.latex-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex" /></a>
+### Backend & Frameworks
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
 </p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
+</p>
+
+**Also:** REST APIs · JWT · PyTorch · Gymnasium · SQL · Git · Linux · Figma
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 Currently Exploring
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wangmo-inn&show_icons=true&hide_title=true&count_private=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wangmo-inn&theme=radical" alt="GitHub Streak" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wangmo-inn&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+```text
+DSA
+ ↓
+Backend Engineering
+ ↓
+System Design
+ ↓
+Distributed Systems
+ ↓
+GenAI & AI Agents
